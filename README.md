@@ -1,4 +1,4 @@
-# 20262RCOSE32202
+# 20262R0136COSE34102
 
 2026-2 Operating Systems (COSE341) study notes — Jiwoong Jang
 
